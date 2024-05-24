@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: rgb(148, 147, 147);
+  overflow: hidden;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 4rem;
+  justify-content: center;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+.page1 {
+  background: url(Hakodate-night-view.jpg) no-repeat center center/cover;
+}
+.page2 {
+  background: url(https://www.mensjournal.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk3ODA1Njk5NjgwNDQ1NzQx/japancitiesmain2023.jpg)
+    no-repeat center center/cover;
+}
+.page3 {
+  background: url(https://storage.googleapis.com/jpn-new-wp/uploads/2021/08/f4526278-image_tokyo.jpg)
+    no-repeat center center/cover;
+}
+.page4 {
+  background: url(https://keystoneacademic-res.cloudinary.com/image/upload/element/17/176271_Tokyo.jpg)
+    no-repeat center center/cover;
+}
+.page5 {
+  background: url(https://149347190.v2.pressablecdn.com/wp-content/uploads/2019/07/Hakodate-night-view.jpg)
+    no-repeat center center/cover;
+}
